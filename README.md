@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Registration Form** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -133,3 +134,7 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Registration-Form
+Built an registration from using html ,css and javascript 
+>>>>>>> a8f1004b82d38875d90aaf8f9095a703a752dd70
